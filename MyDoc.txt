@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 Hello World!
 Line 2
+=======
+>>>>>>> parent of 9e0c59c (Update MyDoc.txt)
